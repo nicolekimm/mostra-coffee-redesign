@@ -348,6 +348,19 @@ footer{
     #description1, #description2{
         font-size: 20px;
     }
+    #ghost-bear, #brazil-oberon, #vip-blend{
+    width:90%;
+    height:230px;
+    }
+
+    #campfire-latte, #americano, #chai{
+    width:80%;
+    height:200px;
+    }
+    #insta1, #insta2, #insta3, #insta4, #insta5, #insta6{
+        width:200px;
+        height:200px;
+    }
 }
 
 @media screen and (min-width: 1025px) {
